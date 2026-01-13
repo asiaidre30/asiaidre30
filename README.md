@@ -3,7 +3,7 @@
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
 - Born in Brooklyn → Raised in Sheapshead bay→ Currently in Sheapshead Bay.
-- Outside of work I like to Walking
+- Outside of work I like to Paint, Draw and go on long walks
 - Let's connect via email: Asiaidrees283@gmail.com
 
 ## Tech Stack:
