@@ -8,7 +8,7 @@ I build user-focused web apps that make everyday life easier and more accessible
 
 ![Open to Work](https://img.shields.io/badge/OPEN_TO_WORK-Full--Time_Software_Engineer-2ea44f?style=for-the-badge)
 
-📍 Brooklyn, NY &nbsp;·&nbsp; 📫 [Asiaidrees283@gmail.com](mailto:Asiaidrees283@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](LINKEDIN_URL) &nbsp;·&nbsp; 🌐 [Portfolio](PORTFOLIO_URL)
+📍 Brooklyn, NY &nbsp;·&nbsp; 📫 [Asiaidrees283@gmail.com](mailto:Asiaidrees283@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/asia-idrees/) &nbsp;·&nbsp; 🌐 [Portfolio](https://asiaidre30.github.io/)
 
 </div>
 
@@ -27,21 +27,25 @@ Outside of code, you'll find me painting, drawing, or taking long walks around t
 ## 🚀 Featured Projects
 
 ### 🏥 PediaMap
-**A healthcare provider discovery platform.** Search for providers using the public NPI Registry API, built to make finding care less confusing.
+**A web app for finding pediatric healthcare providers across the U.S.** Search by city, view provider details, and save favorites, powered by the public NPI Registry API.
 
 **Stack:** React · Node.js · Express · PostgreSQL · REST APIs
-🔗 [Live Demo](PEDIAMAP_DEMO_URL) &nbsp;|&nbsp; 💻 [Source Code](PEDIAMAP_REPO_URL)
+💻 [Source Code](https://github.com/asia-noboni-mls/mod-4-project)
+
+### 📋 ApplyFlow
+**A full-stack job application tracker with user accounts.** Track each application's company, role, status, date, and notes in one place.
+
+**Stack:** PostgreSQL · Express · React · Node.js
+💻 [Source Code](https://github.com/The-Marcy-Lab-School-Assignments/full-stack-project-remix-asiaidre30)
 
 ### 🚇 Sub Track *(in progress)*
 **A NYC transit app** that helps riders find nearby subway stations and access transit information quickly.
 
-**Stack:** React · Node.js · Express · PostgreSQL
-💻 [Source Code](SUBTRACK_REPO_URL)
+### 🛒 Shopping List CLI
+**A command-line shopping list manager built with Node.js.** Add items with quantity and price, remove them, and see a running total.
 
-### 🧑‍💻 Portfolio Website
-**My personal portfolio**, showcasing my projects, technical skills, and journey into software engineering.
-
-🔗 [Visit Site](PORTFOLIO_URL) &nbsp;|&nbsp; 💻 [Source Code](PORTFOLIO_REPO_URL)
+**Stack:** Node.js
+💻 [Source Code](https://github.com/asiaidre30/shopping-list-cli)
 
 ---
 
@@ -88,7 +92,7 @@ Outside of code, you'll find me painting, drawing, or taking long walks around t
 
 If you're hiring or just want to chat about tech, I'd love to hear from you.
 
-📫 [Email](mailto:Asiaidrees283@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](LINKEDIN_URL) &nbsp;·&nbsp; 🌐 [Portfolio](PORTFOLIO_URL)
+📫 [Email](mailto:Asiaidrees283@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/asia-idrees/) &nbsp;·&nbsp; 🌐 [Portfolio](https://asiaidre30.github.io/)
 
 *Thanks for stopping by!* ✨
 
